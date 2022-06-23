@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-usereducer/static/css/main.6af63f5d.css",
+    "main.js": "/todo-usereducer/static/js/main.e6e7c3e8.js",
+    "static/js/787.bb2a51de.chunk.js": "/todo-usereducer/static/js/787.bb2a51de.chunk.js",
+    "index.html": "/todo-usereducer/index.html",
+    "main.6af63f5d.css.map": "/todo-usereducer/static/css/main.6af63f5d.css.map",
+    "main.e6e7c3e8.js.map": "/todo-usereducer/static/js/main.e6e7c3e8.js.map",
+    "787.bb2a51de.chunk.js.map": "/todo-usereducer/static/js/787.bb2a51de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6af63f5d.css",
+    "static/js/main.e6e7c3e8.js"
+  ]
+}
